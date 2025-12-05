@@ -859,7 +859,7 @@ Interactive dashboard showing claim statistics, approval rates, and historical t
 
 ### Maintainers
 
-- Ritika Vyas ([@Co-vengers](https://github.com/Co-vengers))
+- Co-vengers ([@Co-vengers](https://github.com/Co-vengers))
 
 ### Technologies Used
 
