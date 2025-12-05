@@ -42,7 +42,7 @@ const Sidebar = ({ activeTab, setActiveTab }) => {
                 <img src="https://api.dicebear.com/7.x/avataaars/svg?seed=Vyom" alt="User" />
             </div>
             <div className="overflow-hidden">
-                <p className="text-sm font-bold text-white truncate group-hover:text-blue-400 transition-colors">Ritika Vyas</p>
+                <p className="text-sm font-bold text-white truncate group-hover:text-blue-400 transition-colors">Vyom Rohila</p>
                 <p className="text-xs text-slate-400 truncate">Admin</p>
             </div>
             </div>
