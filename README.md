@@ -97,7 +97,7 @@ Before installing OPD Adjudicator, ensure you have the following installed:
 
 ```bash
 # Clone the repository
-git clone https://github.com/ritikavyas/OPD_Adjudicator.git
+git clone https://github.com/Co-vengers/OPD_Adjudicator.git
 cd OPD_Adjudicator
 
 # Copy environment configuration
@@ -122,7 +122,7 @@ docker-compose up -d
 
 ```bash
 # Clone the repository
-git clone https://github.com/ritikavyas/OPD_Adjudicator.git
+git clone https://github.com/Co-vengers/OPD_Adjudicator.git
 cd OPD_Adjudicator/Backend
 
 # Create virtual environment
@@ -836,12 +836,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **Backend API Documentation**: http://localhost:8000/docs (Swagger UI)
 - **Alternative API Docs**: http://localhost:8000/redoc (ReDoc)
-- **GitHub Repository**: https://github.com/ritikavyas/OPD_Adjudicator
+- **GitHub Repository**: https://github.com/Co-vengers/OPD_Adjudicator
 
 ### Getting Help
 
-- **Issues**: Report bugs or request features via [GitHub Issues](https://github.com/ritikavyas/OPD_Adjudicator/issues)
-- **Discussions**: Join conversations in [GitHub Discussions](https://github.com/ritikavyas/OPD_Adjudicator/discussions)
+- **Issues**: Report bugs or request features via [GitHub Issues](https://github.com/Co-vengers/OPD_Adjudicator/issues)
+- **Discussions**: Join conversations in [GitHub Discussions](https://github.com/Co-vengers/OPD_Adjudicator/discussions)
 
 ### Key Features Explained
 
@@ -859,7 +859,7 @@ Interactive dashboard showing claim statistics, approval rates, and historical t
 
 ### Maintainers
 
-- Ritika Vyas ([@ritikavyas](https://github.com/ritikavyas))
+- Ritika Vyas ([@Co-vengers](https://github.com/Co-vengers))
 
 ### Technologies Used
 
